@@ -9,3 +9,6 @@ Comandos que debemos utilizar tanto para crear un proyecto con git, como para es
 * **git init**: inicializa un repositorio en el directorio actual.
 * **git config --global user.name** `username`: define de manera global el nombre con el que nos identificamos.
 * **git config --global user.email** `email`: define el correo de contacto para las confirmaciones de cambios.
+
+## Descarga del repositorio
+Estos comandos debemos utilizarlos cuando acceddemos a un repositorio remoto, y necesitamos descargar la informacion del mismo. Una vez realizada la copia, simplemente debemos gestionar los cambios locales y gestionar los cambios remotos, para descargarlos e integrarlos a la historia local.
